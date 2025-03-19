@@ -1,6 +1,6 @@
 # 🩺 KuttyDoc - Your Personalized Healthcare Assistant
 
-![KuttyDoc Banner](https://via.placeholder.com/1200x400.png?text=KuttyDoc+Banner) <!-- Replace with your banner image -->
+![KuttyDoc Banner](static/images/doctors-animate.svg) <!-- Replace with your banner image -->
 
 KuttyDoc is an AI-powered telemedicine platform designed to revolutionize healthcare delivery. With features like appointment scheduling, AI-based disease prediction, and e-prescription generation, KuttyDoc brings healthcare to your fingertips.
 
