@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: kuttydoc
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: DATABASE_URL
+        value: your_database_url
+      - key: SECRET_KEY
+        value: your_secret_key
