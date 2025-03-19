@@ -131,8 +131,8 @@ We welcome contributions! Please follow these steps:
 
 For questions or feedback, reach out to us:
 
-- **Email**: support@kuttydoc.com
-- **Website**: kuttydoc.com
+- **Email**: kishorekumarmourougane@gmail.com
+- **Website**: [kuttydoc.com](https://kuttydoc.onrender.com/)
 - **Twitter**: @KuttyDoc
 
 ---
