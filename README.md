@@ -1,4 +1,3 @@
-```markdown
 # 🩺 KuttyDoc - Your Personalized Healthcare Assistant
 
 ![KuttyDoc Banner](https://via.placeholder.com/1200x400.png?text=KuttyDoc+Banner) <!-- Replace with your banner image -->
@@ -32,7 +31,6 @@ KuttyDoc is an AI-powered telemedicine platform designed to revolutionize health
    ```bash
    git clone https://github.com/yourusername/kuttydoc.git
    cd kuttydoc
-   ```
 
 2. **Set Up a Virtual Environment**:
    ```bash
