@@ -29,7 +29,7 @@ KuttyDoc is an AI-powered telemedicine platform designed to revolutionize health
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/kuttydoc.git
+   git clone https://github.com/Kuttykishorekk/KuttyDoc.git
    cd kuttydoc
 
 2. **Set Up a Virtual Environment**:
